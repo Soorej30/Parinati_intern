@@ -1,0 +1,16 @@
+1) Create a new file 'api_key.py' in the same folder as 'crypto_index.py' and 'main.py'. Fill it in the following format:
+	
+	key = 'your_api_key'
+
+2) Fill index.json in the following format ( n represents number of indices:
+
+	{
+		"index_name-1" : [ comma seperated list of cryptocurrency id's]
+		"index_name-2" : [ comma seperated list of cryptocurrency id's]
+		_ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ _
+		_ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ _
+		_ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ __ _ _ _ _
+		"index-name-n" : [ comma seperated list of cryptocurrency id's]
+	}
+	
+3) Execute 'main.py'
